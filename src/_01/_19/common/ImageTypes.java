@@ -1,4 +1,4 @@
-package _01._19;
+package _01._19.common;
 
 public enum ImageTypes {
     BMP,
