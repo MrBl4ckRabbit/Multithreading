@@ -1,0 +1,11 @@
+space
+Rec. 2020
+RGK
+CMY
+LMS
+CIE 1931 XYZ
+HSLuv
+DCI-P3
+RGK
+sRGB
+Rec. 2100
